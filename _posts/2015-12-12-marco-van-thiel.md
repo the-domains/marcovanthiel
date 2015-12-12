@@ -6,26 +6,27 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Projectmanager, interimmanager, change manager, adviseur'
-datePublished: '2015-12-12T18:59:50.165Z'
-dateModified: '2015-12-12T16:51:21.448Z'
+datePublished: '2015-12-12T19:18:03.088Z'
+dateModified: '2015-12-12T19:15:59.969Z'
 title: Marco van Thiel
 author: []
+sourcePath: _posts/2015-12-12-marco-van-thiel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-marco-van-thiel.md
-published: true
 url: marco-van-thiel/index.html
 _type: Article
 
 ---
 ****
 
-**Projectmanager,
-interimmanager, change manager, adviseur**
+Projectmanager, interimmanager,
+change manager, adviseur
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73836959-6f56-477b-bff5-462dd92692f7.jpg)
 
 Marco is een enthousiaste manager, die met vijftien jaar
 ervaring en gedreven door nut en noodzaak complexe projecten kan terugbrengen
