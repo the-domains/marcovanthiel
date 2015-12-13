@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Projectmanager, interimmanager, change manager, ICT adviseur]]></title>
-        <description><![CDATA[Projectmanager, interimmanager, change manager, ICT adviseur]]></description>
+        <title><![CDATA[Marco van Thiel, Projectmanager, interimmanager, change manager, ICT adviseur]]></title>
+        <description><![CDATA[Marco van Thiel, Projectmanager, interimmanager, change manager, ICT adviseur]]></description>
         <link>http://www.marcovanthiel.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 20:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2015 14:24:55 GMT</lastBuildDate>
         <atom:link href="http://www.marcovanthiel.nl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Marco van Thiel]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.marcovanthiel.nl/marco-van-thiel/index.html</link>
             <guid isPermaLink="false">79b4c144-fb1f-4401-bdcb-1c0c79dca078</guid>
             <pubDate>Sat, 12 Dec 2015 19:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4fc218-2e37-47e7-a250-1b221c2096c0.jpg">]]></description>
+            <link>http://www.marcovanthiel.nl/eb4fff76-7e8a-41f5-9685-b92ee17dd201/index.html</link>
+            <guid isPermaLink="false">eb4fff76-7e8a-41f5-9685-b92ee17dd201</guid>
+            <pubDate>Sun, 13 Dec 2015 14:24:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kunstliefhebber]]></title>
