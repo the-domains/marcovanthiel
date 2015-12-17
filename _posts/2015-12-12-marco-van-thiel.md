@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Projectmanager, interimmanager, change manager, adviseur'
-datePublished: '2015-12-12T19:18:03.088Z'
-dateModified: '2015-12-12T19:15:59.969Z'
-title: Marco van Thiel
+description: ''
+datePublished: '2015-12-17T21:02:18.022Z'
+dateModified: '2015-12-12T20:23:52.626Z'
+title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
 published: true
@@ -23,9 +23,6 @@ _type: Article
 
 ---
 ****
-
-Projectmanager, interimmanager,
-change manager, adviseur
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73836959-6f56-477b-bff5-462dd92692f7.jpg)
 
 Marco is een enthousiaste manager, die met vijftien jaar
