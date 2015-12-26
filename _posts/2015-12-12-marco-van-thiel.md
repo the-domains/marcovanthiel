@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T20:54:36.515Z'
-dateModified: '2015-12-17T21:03:10.731Z'
+datePublished: '2015-12-26T14:24:07.291Z'
+dateModified: '2015-12-26T14:23:53.334Z'
 title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: marco-van-thiel/index.html
 _type: Article
 
