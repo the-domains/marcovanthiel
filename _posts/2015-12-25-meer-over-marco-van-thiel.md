@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T22:06:43.491Z'
+datePublished: '2016-01-28T22:06:43.537Z'
 dateModified: '2016-01-28T22:06:40.031Z'
 title: Meer over Marco van Thiel
 author: []
