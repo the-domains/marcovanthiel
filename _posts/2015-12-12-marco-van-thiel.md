@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T18:06:24.868Z'
+datePublished: '2016-01-28T18:06:24.916Z'
 dateModified: '2016-01-28T18:06:19.582Z'
 title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
