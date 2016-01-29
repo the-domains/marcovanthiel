@@ -4,8 +4,15 @@
         <description><![CDATA[Marco van Thiel, Projectmanager, interimmanager, change manager, ICT adviseur]]></description>
         <link>http://www.marcovanthiel.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 23:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 00:36:41 GMT</lastBuildDate>
         <atom:link href="http://www.marcovanthiel.nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kunstliefhebber]]></title>
+            <description><![CDATA[<article><h1>Kunstliefhebber</h1><p>Marco van Thiel is kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland. Als regelmatig bezoeker van musea kom ik regelmatig in aanraking met de mooiste moderne kunst in de wereld. Voor mij is dat een belangrijke bron van inspiratie en van mijn motivatie om steeds nieuwsgierig te blijven. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13c6c54501f4ca8ff20191abac4839e81f511a52.jpg"></article>]]></description>
+            <link>http://www.marcovanthiel.nl/kunstliefhebber/index.html</link>
+            <guid isPermaLink="false">4b14de10-3853-4023-82b4-fa85fbe53d0a</guid>
+            <pubDate>Fri, 29 Jan 2016 00:36:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Met de voeten in het zand]]></title>
             <description><![CDATA[<article><h1>Met de voeten in het zand</h1><p>Dankzij een ervaringenpalet
@@ -20,7 +27,7 @@ die met zijn team op prettige wijze resultaten wil bereiken.</p><img src="https:
         </item>
         <item>
             <title><![CDATA[Recente opdrachten]]></title>
-            <description><![CDATA[<article><h1>Recente opdrachten</h1><p>Recente en aansprekende opdrachten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/316467c8f8b6bd3c566bdf2715b5875dfc771e23.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Recente opdrachten</h1><p>Recente en aansprekende opdrachten.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56bc75c25f0e0b65b140e345e4e471777980abcd.jpg"></article>]]></description>
             <link>http://www.marcovanthiel.nl/a779d996-c6ad-467c-882b-b0d3b6fc3d5c/index.html</link>
             <guid isPermaLink="false">a779d996-c6ad-467c-882b-b0d3b6fc3d5c</guid>
             <pubDate>Thu, 28 Jan 2016 22:57:09 GMT</pubDate>
@@ -38,13 +45,6 @@ die met zijn team op prettige wijze resultaten wil bereiken.</p><img src="https:
             <link>http://www.marcovanthiel.nl/meer-over-marco-van-thiel/index.html</link>
             <guid isPermaLink="false">9fad0492-fb67-43b7-81ea-96db8ed573f7</guid>
             <pubDate>Thu, 28 Jan 2016 22:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kunstliefhebber]]></title>
-            <description><![CDATA[<article><h1>Kunstliefhebber</h1><p>Kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland.</p></article>]]></description>
-            <link>http://www.marcovanthiel.nl/kunstliefhebber/index.html</link>
-            <guid isPermaLink="false">4b14de10-3853-4023-82b4-fa85fbe53d0a</guid>
-            <pubDate>Sat, 12 Dec 2015 20:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
