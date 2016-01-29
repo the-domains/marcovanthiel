@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-12T20:53:40.121Z'
-dateModified: '2015-12-12T20:53:06.622Z'
+description: 'Musea, Opera, verzamelaar, liefhebber.'
+datePublished: '2016-01-29T00:36:36.702Z'
+dateModified: '2016-01-28T22:58:16.907Z'
 title: Kunstliefhebber
 author: []
 authors: []
@@ -24,8 +24,10 @@ _type: Article
 ---
 # Kunstliefhebber
 
-Kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland.
-
-Als regelmatig bezoeker van musea kom ik regelmatig in aanraking met de mooiste moderne kunst in de wereld. Voor mij is dat een belangrijke bron van inspiratie en van mijn motivatie om steeds nieuwsgierig te blijven. 
+Marco van Thiel is kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland. Als regelmatig bezoeker van musea kom ik regelmatig in aanraking met de mooiste moderne kunst in de wereld. Voor mij is dat een belangrijke bron van inspiratie en van mijn motivatie om steeds nieuwsgierig te blijven. 
 
 Enkele recente voorbeelden.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adaddc8a6b28daf475072b3f65f3b5b72101344.jpg)
+![The Key in the Hand](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc0054cce5059fd4a555c109df18594bae569d02.jpg)
+![Shooting in the corner - Anish Kapoor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/239f0c87-9a73-4771-97c9-4381559e03fc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12403652-25c3-4948-b960-bf53f0b598a7.jpg)
