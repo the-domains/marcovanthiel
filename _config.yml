@@ -1,6 +1,6 @@
 name: marcovanthiel
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.52605
 typography_spectrum: 0.59152
 title: 'Marco van Thiel, Projectmanager, interimmanager, change manager, ICT adviseur'
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.1875
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
