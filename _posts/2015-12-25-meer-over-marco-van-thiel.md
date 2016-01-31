@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:34:29.595Z'
-dateModified: '2016-01-31T21:48:44.613Z'
+datePublished: '2016-01-31T22:51:10.132Z'
+dateModified: '2016-01-31T22:51:05.239Z'
 title: Meer over Marco van Thiel
 author: []
 sourcePath: _posts/2015-12-25-meer-over-marco-van-thiel.md
