@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Musea, Opera, verzamelaar, liefhebber.'
-datePublished: '2016-01-29T00:37:00.830Z'
-dateModified: '2016-01-29T00:36:48.034Z'
+datePublished: '2016-01-31T22:24:30.463Z'
+dateModified: '2016-01-29T10:36:31.273Z'
 title: Kunstliefhebber
 author: []
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 sourcePath: _posts/2015-12-12-kunstliefhebber.md
 published: true
 url: kunstliefhebber/index.html
