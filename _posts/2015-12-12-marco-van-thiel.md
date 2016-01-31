@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T18:06:24.916Z'
-dateModified: '2016-01-28T18:06:19.582Z'
+datePublished: '2016-01-31T22:51:58.247Z'
+dateModified: '2016-01-31T22:51:54.070Z'
 title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
