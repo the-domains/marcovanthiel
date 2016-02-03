@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Musea, Opera, verzamelaar, liefhebber.'
-datePublished: '2016-02-03T13:17:56.527Z'
-dateModified: '2016-02-03T13:17:47.595Z'
+datePublished: '2016-02-03T15:09:35.140Z'
+dateModified: '2016-02-03T15:09:22.894Z'
 title: Kunstliefhebber
 author: []
 sourcePath: _posts/2015-12-12-kunstliefhebber.md
@@ -22,11 +22,9 @@ url: kunstliefhebber/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adaddc8a6b28daf475072b3f65f3b5b72101344.jpg)
-
 # Kunstliefhebber
 
-Marco van Thiel is kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland. Als regelmatig bezoeker van musea kom ik regelmatig in aanraking met de mooiste moderne kunst in de wereld. Voor mij is dat een belangrijke bron van inspiratie en van mijn motivatie om steeds nieuwsgierig te blijven. 
+Marco van Thiel is kunstliefhebber, museumbezoeker, kunstverzamelaar, bezoeker van opera's in binnen en buitenland. Als regelmatig bezoeker van musea kom ik regelmatig in aanraking met de mooiste moderne kunst in de wereld. Voor mij is dat een belangrijke bron van inspiratie en van mijn motivatie om steeds nieuwsgierig te blijven. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8adaddc8a6b28daf475072b3f65f3b5b72101344.jpg)
 
 Enkele recente voorbeelden.
 ![The Key in the Hand](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc0054cce5059fd4a555c109df18594bae569d02.jpg)
