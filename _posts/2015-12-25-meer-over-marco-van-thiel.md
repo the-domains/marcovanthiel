@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T14:56:34.755Z'
-dateModified: '2016-03-07T14:56:34.443Z'
+datePublished: '2016-03-07T15:01:20.829Z'
+dateModified: '2016-03-07T15:00:58.976Z'
 title: Meer over Marco van Thiel
 author: []
 sourcePath: _posts/2015-12-25-meer-over-marco-van-thiel.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: meer-over-marco-van-thiel/index.html
-_type: Article
+_type: WebPage
 
 ---
 Meer over Marco van Thiel
