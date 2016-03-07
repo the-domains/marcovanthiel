@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:44:46.238Z'
-dateModified: '2016-03-07T16:52:55.600Z'
-title: 'Projectmanager, interimmanager, changemanager, ICT adviseur'
+datePublished: '2016-03-07T18:58:22.286Z'
+dateModified: '2016-03-07T18:57:19.028Z'
+title: 'Projectmanager, Interimmanager, Changemanager, ICT adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
 published: true
