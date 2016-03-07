@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T15:25:17.333Z'
-dateModified: '2016-03-07T15:24:03.565Z'
+datePublished: '2016-03-07T15:29:19.634Z'
+dateModified: '2016-03-07T15:27:59.471Z'
 title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: marco-van-thiel/index.html
-_type: Article
+_type: Blurb
 
 ---
 ****
