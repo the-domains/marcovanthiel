@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T15:10:27.810Z'
-dateModified: '2016-03-07T15:09:59.224Z'
+datePublished: '2016-03-07T15:13:40.623Z'
+dateModified: '2016-03-07T15:11:26.733Z'
 title: 'Projectmanager, interimmanager, change manager, adviseur'
 author: []
 sourcePath: _posts/2015-12-12-marco-van-thiel.md
