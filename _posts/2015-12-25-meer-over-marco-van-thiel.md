@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T15:01:20.829Z'
-dateModified: '2016-03-07T15:00:58.976Z'
+datePublished: '2016-03-07T15:02:09.509Z'
+dateModified: '2016-03-07T15:01:29.139Z'
 title: Meer over Marco van Thiel
 author: []
 sourcePath: _posts/2015-12-25-meer-over-marco-van-thiel.md
