@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Musea, Opera, verzamelaar, liefhebber.'
-datePublished: '2016-02-04T12:56:23.855Z'
-dateModified: '2016-02-03T15:17:50.709Z'
+datePublished: '2016-03-07T14:56:17.271Z'
+dateModified: '2016-03-07T14:56:16.684Z'
 title: Kunstliefhebber
 author: []
 sourcePath: _posts/2015-12-12-kunstliefhebber.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: kunstliefhebber/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Kunstliefhebber
